@@ -1,8 +1,11 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to this project!
+Thank you for your interest in contributing to this project!
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-name`).
 3. Make your changes and commit them (`git commit -m "Add feature"`).
@@ -10,7 +13,9 @@ Thank you for considering contributing to this project!
 5. Open a pull request describing your changes.
 
 ## Code Style
+
 Please follow the existing code style and include comments where necessary.
 
 ## Reporting Issues
+
 Use the Issues tab to report bugs or suggest features.
