@@ -22,3 +22,4 @@ Where:
 4. View the calculated simple interest and total amount.
 
 ## Example
+Fixing a typo update
