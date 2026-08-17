@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator - Bug Branch
 
 ## Description
 This project is a simple interest calculator that computes interest based on principal amount, rate of interest, and time period, using the formula:
